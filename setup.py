@@ -63,7 +63,7 @@ setup(
         'persistent==4.0.8',
         'Pint==0.8.1',
         'pow-store-zodb==0.0.7',
-        'rdflib>=4.1.2',
+        'rdflib==4.1.2',
         'six~=1.10',
         'tqdm~=4.23.4',
         'termcolor==1.1.0',
